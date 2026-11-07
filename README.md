@@ -257,4 +257,4 @@ This repository serves as the official landing page for F1 2021. The software is
 **Get the most recent version of F1 2021 today!**
 
 ---
-**Last updated:** 2026-11-07 04:27:31 UTC
+**Last updated:** 2026-11-07 11:27:49 UTC
